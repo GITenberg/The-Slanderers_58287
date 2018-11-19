@@ -1,5 +1,8 @@
 _repo: The-Slanderers_58287
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58287-h/images/cover.jpg
 creator:
   author:
     agent_name: Deeping, Warwick
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41615'
     url: http://www.gutenberg.org/2009/agents/41615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58287#The-Slanderers
 gutenberg_issued: '2018-11-16'
 gutenberg_type: Text
 identifiers:
